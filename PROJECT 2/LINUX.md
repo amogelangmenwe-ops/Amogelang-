@@ -40,6 +40,10 @@ Understanding logrotate configuration: Figuring out how rotation schedules, rete
 Permissions issues: Some logs needed elevated permissions to access, so I had to troubleshoot access errors.
 
 
+<img width="1346" height="723" alt="Managing Log files " src="https://github.com/user-attachments/assets/6c933787-645f-4e54-9a84-f221ad528969" />
+
+
+
 📂 Project 2.2
                         LAB 249 The bash shell 
 
@@ -74,6 +78,11 @@ Practiced using input/output redirection (>, >>, <) and pipes (|) to combine com
 Learned to execute simple Bash scripts and pass arguments to them.
 
 Explored built-in Bash commands and shortcuts to improve efficiency while working in the shell.
+
+
+
+<img width="1365" height="719" alt="249 Lab The bash shell" src="https://github.com/user-attachments/assets/f9c2f812-c77a-4965-8e20-b453bcc4329a" />
+
 
 Difficulties Encountered
 
