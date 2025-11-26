@@ -1,4 +1,5 @@
 # 📂 Project 3.1 NETWORKING 
+
                               LAB 263   Create Subnets and VPC 
 
 In this lab, I learned how to design and configure a virtual network environment using Virtual Private Clouds (VPCs) and subnets. The main goal was to understand how to segment network resources, control IP address allocation, and manage connectivity between different parts of a network. This lab provided hands-on experience with creating VPCs, defining subnets, and understanding routing and network isolation concepts in a cloud or virtualized environment.
@@ -30,6 +31,11 @@ Set up internet gateways to provide external connectivity where needed.
 Verified the VPC and subnet configurations by checking IP ranges and routes.
 
 Learned how network segmentation helps improve security and manageability.
+
+<img width="1130" height="439" alt="Create Subnets 5" src="https://github.com/user-attachments/assets/7a8bd0c2-4c36-4494-819d-3927f2a47213" />
+
+
+
 
 Difficulties Encountered
 
