@@ -34,6 +34,9 @@ Support different data modeling approaches based on the use case.
 
 Help transform raw data into meaningful insights and reports.
 
+<img width="1024" height="719" alt="image" src="https://github.com/user-attachments/assets/86df656a-180b-4bda-8360-62ece848a589" />
+
+
 ---------------------------------------------------------------------------------------------------------------------------
 >A data warehouse is a relational database designed specifically for analytics, storing massive amounts of data and using column-oriented storage to make aggregation tasks like SUM or AVG extremely fast. It’s built for high performance on large datasets (millions of rows) and supports infrequent, periodic reporting rather than real-time access. Data is loaded into the warehouse through ETL/ELT pipelines, where information from operational databases is extracted, loaded, and transformed—usually using SQL—to support fast, efficient analysis.
 
