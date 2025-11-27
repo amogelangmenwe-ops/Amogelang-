@@ -53,5 +53,5 @@ Dedicated pricing applies to workloads that need complete isolation from other A
 >13. Savings Plans 1 & 2
 
 Savings Plans are flexible pricing models that provide cost savings in exchange for a commitment to consistent compute usage. Compute Savings Plans cover a wide range of services, while EC2 Savings Plans are specific to EC2 instances, helping reduce cloud costs effectively.
-<img width="1240" height="480" alt="image" src="https://github.com/user-attachments/assets/ad1b7c35-996e-4385-9e0b-e0a66c0025ce" />
+
 
